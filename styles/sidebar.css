@@ -1,0 +1,40 @@
+.sidebar {
+  position: fixed;
+  width: 72px;
+  left: 0px;
+  top: 60px;
+  bottom: 0px;
+  background-color: white;
+  
+}
+
+.sidebar-icon {
+  display: flex;
+  flex-direction: column;
+  width: 72px;
+  height: 74px;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.home,
+.explore,
+.subscriptions,
+.originals,
+.youtube-music,
+.library {
+  width: 100%;
+  height: 24px;
+  
+  object-fit: fill;
+}
+
+.sidebar-icon:hover {
+  background-color: rgb(238, 238, 238);
+  cursor: pointer;
+}
+
+.sidebar-link {
+  font-size: 10px;
+}
