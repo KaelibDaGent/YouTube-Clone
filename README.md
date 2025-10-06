@@ -1,0 +1,1 @@
+This is a Youtube course Exercise from the youtuber supersimpledev that serves as proof that i have completed his course. The exercise was to build the complete preview of youtube's videos with funtcional links using HTML and CSS.
